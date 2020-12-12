@@ -40,4 +40,4 @@ special effects
 ![image](/readme_images/special_effects.png)
 
 enemy collisions
-![image](/readme_images/enemy_collisions.png)
+![image](/readme_images/enemy_collision.png)
