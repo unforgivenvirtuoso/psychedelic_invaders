@@ -22,3 +22,10 @@ if that doesnt work then move the assets folder from the above directory and put
 then open the engine.sln file in visual studio 2019 and run the game 
 
 3dgamecw(with .exe)/AGT_TEMPLATE/engine.sln
+
+
+
+
+
+![introscreen](/reademe_images/introscreen.png)
+introscreen
