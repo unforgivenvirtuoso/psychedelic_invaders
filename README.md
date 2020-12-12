@@ -27,5 +27,17 @@ then open the engine.sln file in visual studio 2019 and run the game
 
 
 
-![image](/readme_images/introscreen.png)
 introscreen
+![image](/readme_images/introscreen.png)
+
+boss
+![image](/readme_images/boss.png)
+
+boss with light from ballistic
+![image](/readme_images/boss_light.png)
+
+special effects
+![image](/readme_images/special_effects.png)
+
+enemy collisions
+![image](/readme_images/enemy_collisions.png)
