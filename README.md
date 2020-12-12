@@ -27,5 +27,5 @@ then open the engine.sln file in visual studio 2019 and run the game
 
 
 
-![image](/reademe_images/introscreen.png)
+![image](/readme_images/introscreen.png)
 introscreen
