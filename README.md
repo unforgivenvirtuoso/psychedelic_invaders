@@ -1,7 +1,7 @@
 # psychedelic_invaders
 flying first person shooter space alien game with a psychedelic theme in c++ 
 
-links to the assets used can be find the the milestone2report.pdf in the docs folder
+links to the assets used can be found in the milestone2report.pdf in the docs folder
 
 link to the engine 
 
